@@ -1,4 +1,6 @@
 # javaweb_smbms
 javaweb assignment
+servlet + tomcat + ajax +layui
 
-in master branch
+lazy to merge branch
+code is in master branch
